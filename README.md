@@ -25,8 +25,8 @@ The system provides a centralized workbook with structured sheets that simulate 
 - Gain experience in designing a structured business tool in Excel  
 - Manage stock efficiently without additional software
 
-
-
 ## 🧰 Tools Used
 - **Microsoft Excel**
 - **Basic Inventory and Sales Management Concepts**
+
+  
