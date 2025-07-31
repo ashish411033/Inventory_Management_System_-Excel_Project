@@ -29,4 +29,6 @@ The system provides a centralized workbook with structured sheets that simulate 
 - **Microsoft Excel**
 - **Basic Inventory and Sales Management Concepts**
 
+
+![Inventory Management Syestem Screenshot](https://github.com/ashish411033/Inventory_Management_System_Excel_Project/blob/4e7d91efc1fc99e82434f3d58296b082a5514455/IMS.PNG))
   
